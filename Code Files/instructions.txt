@@ -1,0 +1,14 @@
+Drop contents of this folder 'Pi' to /home/pi
+
+Fix permissions if necessary
+
+type the following in terminal:
+
+sudo crontab -e
+
+and write this at the bottom:
+
+@reboot sudo bash /home/pi/auto_start.sh
+
+-----------the adafruit folder is the library for adc spi interaction-----------
+follow the readme to install this located in that folder
