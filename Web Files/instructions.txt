@@ -1,0 +1,5 @@
+Follow instructions in report to start a local web server and check localhost on browser before continuing
+
+Drop contents of this folder into /var/www/html 
+
+Fix permissions if necessary (chhown to change owner or chmod to change permissions)
