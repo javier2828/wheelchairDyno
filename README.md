@@ -10,6 +10,10 @@ Fitness is an important aspect in today’s society as a rapidly growing industr
 ## Final Presentation
 [Github Link](https://github.com/javier2828/wheelchairDyno/blob/master/Senior%20Design%20Final%20Presentation.pdf)
 
+
+## Project Poster
+[Github Link](https://github.com/javier2828/wheelchairDyno/blob/master/dyno_poster_rev3.pdf)
+
 ## Sample Images
 ![Image](https://i.imgur.com/8QAyaXo.png)
 ![Image](https://i.imgur.com/gPjUnCZ.png)
